@@ -35,8 +35,8 @@ To demonstrate:
 | `Radico_Khaitan_Analysis.pdf` | 📄 Final company analysis based on assignment format |
 | `Assignment_Format.pdf` | 🧾 Standard analysis structure followed |
 | `Dolat_Capital_Radico_09082024.pdf` | 📊 Source report used for data and commentary |
-| `Presentation.pptx` *(Optional)* | 🎞️ Slides for summary or pitch |
-| `Key_Metrics.xlsx` *(Optional)* | 📈 Extracted data and calculations |
+
+
 
 ---
 
